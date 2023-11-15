@@ -1,3 +1,1 @@
 # simpleApps_ReactNative
-
-tes
